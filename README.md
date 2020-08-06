@@ -1,4 +1,3 @@
-
 # Data Visualization - Lab
 
 ## Introduction
@@ -76,7 +75,7 @@ The table shows the data collected by a Consumer Products Group on the relations
 * Set an appropriate figure size, labels for axes and the plot.
 * Give a title to the plot
 
-Looking the scatter plot, how would you describe the relationship between these two attributes?
+Looking at the scatter plot, how would you describe the relationship between these two attributes?
 
 
 ```python
